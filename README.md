@@ -1,6 +1,6 @@
   👋 bonjour je m'apelle mehdi bellam
   
-  [![Linkedin: Mehdi Bellam](https://img.shields.io/badge/-Mehdi-Bellam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdi-bellam-8357861b7/)](https://www.linkedin.com/in/mehdi-bellam-8357861b7/)
+  [![Linkedin: Mehdi Bellam](https://img.shields.io/badge/linkedin-Mehdi%20Bellam-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdi-bellam-8357861b7/)](https://www.linkedin.com/in/mehdi-bellam-8357861b7/)
   
   <p><em> Je suis étudiant à l' <a href="https://www.iim.fr">IIM 
 </em></p>
