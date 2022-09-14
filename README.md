@@ -30,5 +30,6 @@
 ## Contacte ##
 
 - 📫  vous pouvez me conctacter via email : mehdi.bellam@outlook.fr
+-  où sur Linkedin : <a href="https://linkedin.com/in/mehdi bellam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi bellam" height="20" width="30" /></a> 
 
 
