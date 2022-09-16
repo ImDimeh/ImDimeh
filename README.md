@@ -32,9 +32,12 @@
 
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-20hrs%2038%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-200lines%20of%20code-blue)
+```text
+HTML         1 hr 45 mins    █████████████████▓░░░░░░░   70.12 %
+CSS          31 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+Git Config   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+```
 
 <!--END_SECTION:waka-->
 
