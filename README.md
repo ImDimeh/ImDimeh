@@ -37,7 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP          7 mins          █████████████████████▒░░░   84.74 %
+CSS          0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
