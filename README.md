@@ -16,7 +16,6 @@
   <p><em> Je suis étudiant à l' <a href="https://www.iim.fr">IIM 
 </em></p>
 
-  ![mehdi bellam](https://user-images.githubusercontent.com/94788341/189873431-10d89fb5-4626-41b5-ae86-7204598f7b2d.gif)
 
  Je suis passionnée par le développement web (plus spécialement le front-end ) mais j'ai pour projet d'être le plus polyvalent possible. Je suis en étude supérieure en développement web.
 
@@ -52,7 +51,7 @@ HTML   16 mins         █████▒░░░░░░░░░░░░░
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdimeh&show_icons=true&locale=en" alt="imdimeh" /></p>
 
-## Contacte ##
+## me contacter ##
 
 - 📫  vous pouvez me conctacter via email : mehdi.bellam@outlook.fr
 -  où sur Linkedin : <a href="https://linkedin.com/in/mehdi bellam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi bellam" height="20" width="30" /></a> 
