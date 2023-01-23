@@ -105,7 +105,14 @@ HTML   16 mins         █████▒░░░░░░░░░░░░░
 ## me contacter ##
 
 - 📫  vous pouvez me conctacter via email : mehdi.bellam@outlook.fr
--  où sur Linkedin : <a href="https://linkedin.com/in/mehdi bellam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi bellam" height="20" width="30" /></a> 
+<div align="center">
+<a href="https://github.com/ImDImeh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/mehdi-bellam-8357861b7" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ## Pour conclure ##
 
