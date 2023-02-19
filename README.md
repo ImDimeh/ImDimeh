@@ -90,8 +90,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js     2 hrs 38 mins   ████████████████████████▒   97.45 %
-Markdown   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Vue.js       4 hrs 57 mins   ████████████████████████▓   98.61 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
