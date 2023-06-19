@@ -90,9 +90,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       51 mins         ████████████░░░░░░░░░░░░░   47.91 %
-JavaScript   38 mins         █████████░░░░░░░░░░░░░░░░   36.45 %
-Python       16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+Python       16 mins         █████████████████▓░░░░░░░   70.20 %
+JavaScript   7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.80 %
 ```
 
 <!--END_SECTION:waka-->
