@@ -90,10 +90,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       1 hr 19 mins    █████████████▒░░░░░░░░░░░   53.27 %
-Python       1 hr 4 mins     ██████████▓░░░░░░░░░░░░░░   42.91 %
-JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python   1 hr 4 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
