@@ -90,7 +90,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP          1 hr 30 mins    ███████████░░░░░░░░░░░░░░   43.78 %
+Vue.js       1 hr 28 mins    ██████████▓░░░░░░░░░░░░░░   42.54 %
+Bash         16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
