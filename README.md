@@ -90,9 +90,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   23 mins         ████████████████████████░   95.88 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+TypeScript   27 mins         ███████████████▓░░░░░░░░░   63.22 %
+TSConfig     8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
+HTML         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
