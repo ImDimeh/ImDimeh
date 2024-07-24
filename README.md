@@ -90,11 +90,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP        2 hrs 46 mins   ██████████████████████▒░░   89.37 %
-Other      12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-YAML       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
